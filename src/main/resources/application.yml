@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIAZSPJQ25XDWJFGOH5
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/658156607342/MyFirstQueue.fifo
